@@ -1,4 +1,5 @@
-var bankAccountBalance = 52.10;
+alert("This is linked to Javascript")
+/*var bankAccountBalance = 52.10;
 
 var firstName = "Tom";
 var lastName = 'Sawyer';
@@ -23,3 +24,5 @@ console.log(5 == 6);
 
 console.log(bankAccountBalance == numberOfFriends);
 console.log(bankAccountBalance == 52.10);
+*/
+
